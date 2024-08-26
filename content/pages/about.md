@@ -25,7 +25,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: Arjun Ramtel
         text: "Hello, I'm\_**'Arjun Ramtel'.**\_I'm\_**designer of this platform.**\_I'm a Student of '**information technology**'.\n"
         image:
           type: Image
