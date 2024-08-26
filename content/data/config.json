@@ -18,8 +18,8 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "Services",
+                "url": "",
                 "underline": "hover"
             }
         ]
@@ -41,9 +41,9 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Services",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": ""
             }
         ]
     }
