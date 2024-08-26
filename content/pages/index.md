@@ -18,7 +18,7 @@ sections:
         color: primary
       - type: Button
         label: Read the Docs
-        url: /home
+        url: ''
         size: large
         variant: outlined
         color: primary
