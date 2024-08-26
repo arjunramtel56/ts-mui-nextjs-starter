@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "This is My Personal Page",
+        "title": "This is my personal website",
         "navLinks": [
             {
                 "type": "Link",
