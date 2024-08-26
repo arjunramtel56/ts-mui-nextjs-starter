@@ -34,7 +34,7 @@ sections:
         title: Digital Marketing
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/1687857795897.jpg
           altText: First item image
         text: "## **Sales of Product**\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
         actions:
