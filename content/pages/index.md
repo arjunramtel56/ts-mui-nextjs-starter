@@ -47,11 +47,7 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "## **Marketing of social media**\n\n**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n\n\n"
         actions:
           - type: Button
             label: Read the Docs
