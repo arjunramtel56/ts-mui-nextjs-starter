@@ -64,5 +64,5 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: /home
+            url: ''
 ---
