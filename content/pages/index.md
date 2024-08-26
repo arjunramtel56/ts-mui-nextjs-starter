@@ -24,11 +24,11 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/e-commerce-img.avif
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Positions open careers
+    subtitle: it's your choice of your way
     items:
       - type: Card
         title: Digital Marketing
