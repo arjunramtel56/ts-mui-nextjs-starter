@@ -35,7 +35,7 @@ sections:
         image:
           type: Image
           url: /images/1687857795897.jpg
-          altText: First item image
+          altText: Digital Marketing
         text: "## **Sales of Product**\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
         actions:
           - type: Button
