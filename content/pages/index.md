@@ -36,7 +36,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: "\\<div style=\"text-align: left\">**Sales of Product**\\</div>\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
+        text: "## **Sales of Product**\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
         actions:
           - type: Button
             label: Read the Docs
