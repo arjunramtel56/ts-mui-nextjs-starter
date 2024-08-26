@@ -12,13 +12,13 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: /home
         size: large
         variant: contained
         color: primary
       - type: Button
         label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: /home
         size: large
         variant: outlined
         color: primary
@@ -40,7 +40,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /home
       - type: Card
         title: E-commerce Platform
         image:
@@ -51,7 +51,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /home
       - type: Card
         title: Social Media Management
         image:
@@ -64,5 +64,5 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /home
 ---

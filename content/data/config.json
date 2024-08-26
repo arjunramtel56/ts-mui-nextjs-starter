@@ -1,8 +1,8 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/e-commerce-img.avif",
     "header": {
-        "title": "This is my personal website",
+        "title": "",
         "navLinks": [
             {
                 "type": "Link",
@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Home",
                 "underline": "hover",
-                "url": "/"
+                "url": "/home"
             },
             {
                 "type": "Link",
@@ -43,7 +43,7 @@
                 "type": "Link",
                 "label": "Services",
                 "underline": "hover",
-                "url": ""
+                "url": "/home"
             }
         ]
     }
