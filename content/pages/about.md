@@ -15,7 +15,7 @@ sections:
 
 
   - type: CardsSection
-    title: Cards Section Title
+    title: Meet my team
     subtitle: The section subtitle
     items:
       - type: Card
