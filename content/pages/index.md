@@ -12,13 +12,13 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: /home
+        url: ''
         size: large
         variant: contained
         color: primary
       - type: Button
         label: Read the Docs
-        url: /home
+        url: ''
         size: large
         variant: outlined
         color: primary
