@@ -36,7 +36,7 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: "**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n"
+        text: "\\<div style=\"text-align: left\">**Sales of Product**\\</div>\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
         actions:
           - type: Button
             label: Read the Docs
