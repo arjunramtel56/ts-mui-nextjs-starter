@@ -26,10 +26,7 @@ sections:
             color: primary
       - type: Card
         title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "Hello, I'm\_**'Arjun Ramtel'.**\_I'm\_**designer of this platform.**\_I'm a Student of '**information technology**'.\n"
         image:
           type: Image
           url: /images/mui-5.svg
