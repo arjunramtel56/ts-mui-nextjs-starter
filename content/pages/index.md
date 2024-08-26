@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/e-commerce-img.avif
       altText: Hero section image
   - type: CardsSection
     title: Positions open careers
