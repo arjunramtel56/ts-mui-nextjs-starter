@@ -15,7 +15,7 @@ sections:
         text: "Hello, I'm\_**'Aasta Devi Ramtel'**. I'm\_**designer of this platform.**\_I'm a Student of '**information technology**'.\n"
         image:
           type: Image
-          url: /images/01111.jpg
+          url: /images/5742.jpg
           altText: Aasta Devi Ramtel
         actions:
           - type: Button
