@@ -6,8 +6,8 @@ sections:
     title: 'Hello, I''m Aasta'
     subtitle: I'm Student of Information Technology
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      I have learning the '**information technology**' fill has a '**student**'
+      in fourth year of my career. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
