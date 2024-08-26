@@ -30,7 +30,7 @@ sections:
         image:
           type: Image
           url: /images/0222.jpg
-          altText: Second item image
+          altText: Arjun Ramtel
         actions:
           - type: Button
             label: Learn more
