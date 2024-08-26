@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: arjunramtel.com.np
+        url: /home
         size: large
         variant: contained
         color: primary
