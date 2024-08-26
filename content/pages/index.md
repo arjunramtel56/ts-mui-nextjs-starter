@@ -40,7 +40,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: /home
+            url: ''
       - type: Card
         title: E-commerce Platform
         image:
