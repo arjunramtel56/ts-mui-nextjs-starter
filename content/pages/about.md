@@ -29,7 +29,7 @@ sections:
         text: "Hello, I'm\_**'Arjun Ramtel'.**\_I'm\_**designer of this platform.**\_I'm a Student of '**information technology**'.\n"
         image:
           type: Image
-          url: /images/0222.jpg
+          url: /images/21052.jpg
           altText: Arjun Ramtel
         actions:
           - type: Button
