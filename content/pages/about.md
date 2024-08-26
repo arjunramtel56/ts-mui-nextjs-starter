@@ -16,7 +16,7 @@ sections:
         image:
           type: Image
           url: /images/01111.jpg
-          altText: First item image
+          altText: Aasta Devi Ramtel
         actions:
           - type: Button
             label: Learn more
