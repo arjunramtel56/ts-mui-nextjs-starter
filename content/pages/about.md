@@ -11,7 +11,7 @@ sections:
     subtitle: A team that works closely together
     items:
       - type: Card
-        title: First Item Title
+        title: Aasta Devi Ramtel
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
