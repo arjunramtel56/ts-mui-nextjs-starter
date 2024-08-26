@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Positions open careers
-    subtitle: Section subtitle here
+    subtitle: it's your choice of your way
     items:
       - type: Card
         title: Digital Marketing
