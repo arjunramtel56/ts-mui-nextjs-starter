@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/e-commerce-img.avif",
     "header": {
-        "title": "This is my personal website",
+        "title": "",
         "navLinks": [
             {
                 "type": "Link",
