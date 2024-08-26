@@ -56,7 +56,7 @@ sections:
         title: Social Media Management
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/social-media-management.webp
           altText: Social Media Management
         text: >
           This Social Media Management is the lesson of how to use this platform
