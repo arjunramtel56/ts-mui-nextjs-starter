@@ -16,7 +16,7 @@ sections:
 
   - type: CardsSection
     title: Meet my team
-    subtitle: The section subtitle
+    subtitle: A team that works closely together
     items:
       - type: Card
         title: First Item Title
