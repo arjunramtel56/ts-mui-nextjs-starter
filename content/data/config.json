@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Home",
                 "underline": "hover",
-                "url": "/"
+                "url": "/home"
             },
             {
                 "type": "Link",
