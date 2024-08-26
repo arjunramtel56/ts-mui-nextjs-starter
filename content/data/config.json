@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Home",
                 "underline": "hover",
-                "url": "/home"
+                "url": ""
             },
             {
                 "type": "Link",
@@ -43,7 +43,7 @@
                 "type": "Link",
                 "label": "Services",
                 "underline": "hover",
-                "url": "/home"
+                "url": ""
             }
         ]
     }
