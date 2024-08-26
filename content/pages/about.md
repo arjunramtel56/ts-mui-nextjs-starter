@@ -12,10 +12,7 @@ sections:
     items:
       - type: Card
         title: Aasta Devi Ramtel
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "Hello, I'm\_**'Aasta Devi Ramtel'**. I'm\_**designer of this platform.**\_I'm a Student of '**information technology**'.\n"
         image:
           type: Image
           url: /images/01111.jpg
