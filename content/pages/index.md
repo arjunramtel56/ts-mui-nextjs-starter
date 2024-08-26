@@ -57,7 +57,7 @@ sections:
         image:
           type: Image
           url: /images/ts.svg
-          altText: Third item image
+          altText: Social Media Management
         text: >
           This Social Media Management is the lesson of how to use this platform
           of daily life.
