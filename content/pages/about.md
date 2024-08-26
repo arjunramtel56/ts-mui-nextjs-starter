@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Hello, I''m Aasta Devi Ramtel'
-    subtitle: This is the subtitle
+    subtitle: IT Engineer
     text: >
       This is **Markdown** *text*.
 
