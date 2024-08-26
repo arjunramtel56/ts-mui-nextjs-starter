@@ -34,7 +34,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: arjunramtel.com.np
             size: medium
             variant: text
             color: primary
