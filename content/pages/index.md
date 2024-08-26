@@ -46,7 +46,7 @@ sections:
         image:
           type: Image
           url: /images/mui-5.svg
-          altText: Second item image
+          altText: E-commerce Platform
         text: "## **Marketing of social media**\n\n**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n\n\n"
         actions:
           - type: Button
