@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     title: 'Hello, I''m Aasta'
     subtitle: I'm Student of Information Technology
-    text: >
-      I have learning the '**information technology**' fill has a '**student**'
-      in fourth year of my career. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: "Hello, Everyone I'm\_**'Aasta Devi Ramtel'**. I'm Designer. my work platform is social media and technology platform and\_**professional this work**\_in my daily life. I have learning the '**information technology**' fill has a '**student**' in fourth year of my career. I have learning the '**different type of education**' and '**skills**' in my daily life.. [Learn more.](https://arjunramtel.com.np/)\n"
     actions:
       - type: Button
         label: Start Building
