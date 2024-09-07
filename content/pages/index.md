@@ -57,7 +57,7 @@ sections:
           type: Image
           url: /images/social-media-management.webp
           altText: Social Media Management
-        text: "Social media management is\_the process of creating, scheduling, analyzing and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various social media channels to achieve specific marketing and communications objectives.\n\n"
+        text: "**Social media management** is\_the process of **creating**, **scheduling**, **analyzing** and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various **social media channels** to achieve **specific marketing** and communications objectives.\n"
         actions:
           - type: Button
             label: Read the Docs
