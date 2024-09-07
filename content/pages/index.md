@@ -36,7 +36,7 @@ sections:
           type: Image
           url: /images/1687857795897.jpg
           altText: Digital Marketing
-        text: "## **Sales of Product**\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
+        text: "Digital marketing, also called online marketing, is\_the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.\n\n"
         actions:
           - type: Button
             label: Read the Docs
