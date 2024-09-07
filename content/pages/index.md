@@ -24,8 +24,8 @@ sections:
       url: /images/e-commerce-img.avif
       altText: Hero section image
   - type: CardsSection
-    title: Positions open careers
-    subtitle: it's your choice your own way
+    title: positions of open careers
+    subtitle: it's your own way
     items:
       - type: Card
         title: Digital Marketing
@@ -33,7 +33,7 @@ sections:
           type: Image
           url: /images/1687857795897.jpg
           altText: Digital Marketing
-        text: "Digital marketing, also called online marketing, is\_the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.\n\n"
+        text: "**Digital marketing**, also called online marketing, is\_the promotion of brands to connect with potential customers using the internet and other forms of **digital communication**. This includes not only email, **social media**, and **web-based advertising**, but also text and **multimedia messages** as a **marketing channel**.\n"
         actions:
           - type: Button
             label: Read the Docs
@@ -45,7 +45,7 @@ sections:
           type: Image
           url: /images/1683622584991.png
           altText: E-commerce Platform
-        text: "An ecommerce platform is\_the content management system (CMS) and commerce engine websites use to manage catalogued products, register purchases and manage a users relationship with an online retailer. It doesn't matter if your business is large or small, B2B or B2C, selling tangible goods or providing remote services.\n"
+        text: "An ecommerce platform is\_the **content management system** and commerce engine websites use to manage catalogued products, register purchases and **manage a users relationship** with an online retailer. It doesn't matter if your business is large or small, **B2B** or **B2C**, selling tangible goods or **providing remote services**.\n"
         actions:
           - type: Button
             label: Read the Docs
@@ -57,7 +57,7 @@ sections:
           type: Image
           url: /images/social-media-management.webp
           altText: Social Media Management
-        text: "Social media management is\_the process of creating, scheduling, analyzing and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various social media channels to achieve specific marketing and communications objectives.\n\n"
+        text: "**Social media management** is\_the process of **creating**, **scheduling**, **analyzing** and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various **social media channels** to achieve **specific marketing** and communications objectives.\n"
         actions:
           - type: Button
             label: Read the Docs
