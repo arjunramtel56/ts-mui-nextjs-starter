@@ -36,18 +36,19 @@ sections:
           type: Image
           url: /images/1687857795897.jpg
           altText: Digital Marketing
-        text: "## **Sales of Product**\n\nSales the product of online platform and\_**increase your experience**\_and your portfolio.\_**Digital marketing**\_help the your income source '**generate of your daily life'.**\n"
+        text: "Digital marketing, also called online marketing, is\_the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.\n\n"
         actions:
           - type: Button
             label: Read the Docs
-            url: ''
+            url: >-
+              https://mailchimp.com/marketing-glossary/digital-marketing/#:~:text=Digital%20marketing%2C%20also%20called%20online,messages%20as%20a%20marketing%20channel.
       - type: Card
         title: E-commerce Platform
         image:
           type: Image
           url: /images/1683622584991.png
           altText: E-commerce Platform
-        text: "## **Marketing of social media**\n\n**E-commerce**\_platform is working of social media help to generate the your income source of daily life. **'E-commerce and Digital Marketing'**\_is a partnership of this\_**business model**\_of income generate of your life.\n\n\n\n"
+        text: "An ecommerce platform is\_the content management system (CMS) and commerce engine websites use to manage catalogued products, register purchases and manage a users relationship with an online retailer. It doesn't matter if your business is large or small, B2B or B2C, selling tangible goods or providing remote services.\n"
         actions:
           - type: Button
             label: Read the Docs
@@ -58,9 +59,7 @@ sections:
           type: Image
           url: /images/social-media-management.webp
           altText: Social Media Management
-        text: >
-          This Social Media Management is the lesson of how to use this platform
-          of daily life.
+        text: "Social media management is\_the process of creating, scheduling, analyzing and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various social media channels to achieve specific marketing and communications objectives.\n\n"
         actions:
           - type: Button
             label: Read the Docs
