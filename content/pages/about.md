@@ -45,7 +45,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: ''
+            url: 'https://sproutsocial.com/insights/social-media-management/'
             size: medium
             variant: text
             color: primary
