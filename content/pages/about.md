@@ -6,7 +6,7 @@ sections:
     title: 'Hello, I''m Aasta Devi Ramtel'
     subtitle: IT Engineer
     text: >
-      Grow Your Digital Business
+      ### **Grow Your Digital Business**
 
 
       We are a premier **IT Company and Business Consultancy**, dedicated to
