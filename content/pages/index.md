@@ -52,7 +52,8 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: ''
+            url: >-
+              https://www.optimizely.com/optimization-glossary/ecommerce-platform/#:~:text=An%20ecommerce%20platform%20is%20the,goods%20or%20providing%20remote%20services.
       - type: Card
         title: Social Media Management
         image:
