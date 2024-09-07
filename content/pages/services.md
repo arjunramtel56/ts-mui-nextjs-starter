@@ -1,5 +1,5 @@
 ---
 type: Page
-title: /services
+title: services
 sections: []
 ---
