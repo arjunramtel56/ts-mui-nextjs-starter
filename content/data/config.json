@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Services",
-                "url": "https://arjunramtel.com.np/",
+                "url": "/services",
                 "underline": "hover"
             }
         ]
