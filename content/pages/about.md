@@ -9,13 +9,13 @@ sections:
       ##### **Grow Your Digital Business**
 
 
-      ### We are a premier **IT Company and Business Consultancy**, dedicated to
-      empowering businesses with cutting-edge technology solutions and strategic
-      guidance. Our mission is to drive **efficiency**, **innovation**, and
-      **growth** through tailored IT services and insightful business
-      consulting, addressing the unique needs of various industries. With a
-      steadfast commitment to excellence and a customer-centric approach, we
-      partner with clients to help them achieve their goals and navigate the
+      #### We are a premier **IT Company and Business Consultancy**, dedicated
+      to empowering businesses with cutting-edge technology solutions and
+      strategic guidance. Our mission is to drive **efficiency**,
+      **innovation**, and **growth** through tailored IT services and insightful
+      business consulting, addressing the unique needs of various industries.
+      With a steadfast commitment to excellence and a customer-centric approach,
+      we partner with clients to help them achieve their goals and navigate the
       complexities of the modern business landscape.
 
   - type: CardsSection
