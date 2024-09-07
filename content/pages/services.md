@@ -1,6 +1,6 @@
 ---
 type: Page
-title: /
+title: /services
 sections:
   - type: HeroSection
     title: An Empty Page
