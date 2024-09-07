@@ -40,7 +40,8 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: ''
+            url: >-
+              https://mailchimp.com/marketing-glossary/digital-marketing/#:~:text=Digital%20marketing%2C%20also%20called%20online,messages%20as%20a%20marketing%20channel.
       - type: Card
         title: E-commerce Platform
         image:
