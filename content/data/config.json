@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Services",
-                "url": "/services",
+                "url": "services",
                 "underline": "hover"
             }
         ]
