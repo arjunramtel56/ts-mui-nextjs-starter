@@ -58,9 +58,7 @@ sections:
           type: Image
           url: /images/social-media-management.webp
           altText: Social Media Management
-        text: >
-          This Social Media Management is the lesson of how to use this platform
-          of daily life.
+        text: "Social media management is\_the process of creating, scheduling, analyzing and engaging with content posted on social media platforms. A brand's online presence is managed and optimized through various social media channels to achieve specific marketing and communications objectives.\n\n"
         actions:
           - type: Button
             label: Read the Docs
