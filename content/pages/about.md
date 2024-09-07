@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: aastaramtel.com.np
+            url: ''
             size: medium
             variant: text
             color: primary
