@@ -24,7 +24,7 @@ sections:
       url: /images/e-commerce-img.avif
       altText: Hero section image
   - type: CardsSection
-    title: Positions open careers
+    title: Positions of open careers
     subtitle: it's your own way
     items:
       - type: Card
