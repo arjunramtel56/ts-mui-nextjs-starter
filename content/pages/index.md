@@ -47,7 +47,7 @@ sections:
           type: Image
           url: /images/1683622584991.png
           altText: E-commerce Platform
-        text: "## **Marketing of social media**\n\nAn ecommerce platform is\_the content management system (CMS) and commerce engine websites use to manage catalogued products, register purchases and manage a users relationship with an online retailer. It doesn't matter if your business is large or small, B2B or B2C, selling tangible goods or providing remote services.\n"
+        text: "An ecommerce platform is\_the content management system (CMS) and commerce engine websites use to manage catalogued products, register purchases and manage a users relationship with an online retailer. It doesn't matter if your business is large or small, B2B or B2C, selling tangible goods or providing remote services.\n"
         actions:
           - type: Button
             label: Read the Docs
